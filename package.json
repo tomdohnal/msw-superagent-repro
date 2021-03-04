@@ -1,0 +1,12 @@
+{
+  "name": "msw-superagent-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tom Dohnal",
+  "license": "MIT",
+  "dependencies": {
+    "msw": "^0.27.0",
+    "node-fetch": "^2.6.1",
+    "superagent": "^6.1.0"
+  }
+}
